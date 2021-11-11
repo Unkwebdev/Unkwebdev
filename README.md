@@ -1,5 +1,5 @@
 
-Hi I'm Ergashbek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" alt="hi">
+<h1>Hi I'm Ergashbek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"></h1>
 <br>
 <p>
 <!-- GitHub Stats -->
@@ -9,7 +9,7 @@ Hi I'm Ergashbek <img src="https://user-images.githubusercontent.com/1303154/886
 <br>
 
 
-![Banner](https://jelvix.com/wp-content/uploads/2020/01/cover_1-1-1.jpg)
+<!--![Banner](https://jelvix.com/wp-content/uploads/2020/01/cover_1-1-1.jpg)-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,7 +25,6 @@ Hi I'm Ergashbek <img src="https://user-images.githubusercontent.com/1303154/886
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
 </a> 
-
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
 </a> 
