@@ -4,9 +4,15 @@
 
 <!-- GitHub Stats -->
 <!-- <img height="300em"  src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&&show_icons=true&hide_border=true" /> -->
-<img height="300em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&include_all_commits=true&count_private=false"/>
+<!-- <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&include_all_commits=true&count_private=false"/> -->
+![Visitor Count](https://profile-counter.glitch.me/Unkwebdev/count.svg)
 <br>
-<details>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&theme=orange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Unkwebdev" />
+ 
+</p>
+<br>
+<!-- <details>
 <summary>Salam hormatly adamlar!</summary>
   
 > Tema
@@ -23,7 +29,7 @@
 > ```
 > Sag bolun 
   
-  </details>  
+  </details>   -->
 
 <br>
 
