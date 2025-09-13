@@ -1,75 +1,56 @@
-
-<h1>Hi I'm Ergashbek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"></h1>
-<br>
-
-<!-- GitHub Stats -->
-<!-- <img height="300em"  src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&&show_icons=true&hide_border=true" /> -->
-<!-- <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&include_all_commits=true&count_private=true"/> -->
-![Visitor Count](https://profile-counter.glitch.me/Unkwebdev/count.svg)
-<br>
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&theme=orange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Unkwebdev" />
- 
+<p align="center">
+  <img src="https://i.ibb.co/X8Mkh2H/dev-dark-banner.gif" alt="Banner" width="100%">
 </p>
-<br>
-<!-- <details>
-<summary>Salam hormatly adamlar!</summary>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Python;More+You+Learn%2C+More+You+Earn)](https://git.io/typing-svg)
+
+---
+
+### 🚀 About Me
+- 🌍 Full-stack developer from **Turkmenistan**
+- 💡 Creating projects with **React, Node.js, React Native, Python**
+- ✨ Motto: *“More you learn, more you earn”*
+
+---
+
+### 📊 GitHub Performance
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Unkwebdev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Unkwebdev&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unkwebdev&theme=radical" width="100%">
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,mysql,bootstrap,git,vscode,postman,figma" />
+</p>
+
+---
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+   <!-- Telegram -->
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
+  </a>
   
-> Tema
-> ```sh
-> Lorem ipsum sit amet
-> Lorem ipsum sit amet
-> Lorem ipsum sit amet
-> ```
-> Tema
-> ```sh
-> Lorem ipsum sit amet
-> Lorem ipsum sit amet
-> Lorem ipsum sit amet
-> ```
-> Sag bolun 
-  
-  </details>   -->
+  <!-- WhatsApp -->
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="mailto:unkwebdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
 
-<br>
+---
 
-
-<!--![Banner](https://jelvix.com/wp-content/uploads/2020/01/cover_1-1-1.jpg)-->
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> 
-</a>
- <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
-</a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-</a> 
-<a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> 
-</a> 
-<a href="https://code.visualstudio.com/" target="_blank"> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="80" height="80"/> </a> -->
-<!-- </p> -->
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa083/master/Khoa.gif" width="200">
+</p>
